@@ -2,8 +2,13 @@
 Skelibras: a large annotated skeleton dataset of dynamic Libras signs comprised of unsegmented and segmented conversations.
 
 # Dataset organiztion
-- Sign Name
-    - VideoID---SignName---BeginInMiliseconds---EndInMiliSeconds---View---SignalyID.csv
+
+The directory structure is simple with each folder following the name of the sign. And each sign follows this nomenclature below:
+- VideoID---SignName---BeginInMiliseconds---EndInMiliSeconds---View---SignalyID.csv
+
+The signs names follow the guia corpus guide:
+
+[Guia Corpus](https://drive.google.com/file/d/1Ku3Tx5knjNuPhFmW7HF6Agzi0oGw3P3H/view?usp=sharing)
 
 All CSVs have the keys corresponding to the extracted joints, hand and body. All indices correspond to frames. And each joint is a string from a numpy.array, which can be mapped back to numpy.array as follows: 
 
