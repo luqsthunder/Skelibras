@@ -1,4 +1,4 @@
-# Skelibras
+# Skelibras - provisional website
 Skelibras: a large annotated skeleton dataset of dynamic Libras signs comprised of unsegmented and segmented conversations.
 
 # Downloads link:
