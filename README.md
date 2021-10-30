@@ -35,11 +35,11 @@ sign = sign.applymap(parse_npy_vec_str)
 
 [Skelibras download part 2](https://drive.google.com/file/d/49dcd91231f801159e893fb5c6674985/view?usp=sharing)
 
-[Skelibras download part 3]()
+[Skelibras download part 3](https://drive.google.com/file/d/49dc591231f801159e893fb5c6674985/view?usp=sharing)
 
-[Skelibras download part 4]()
+[Skelibras download part 4](https://drive.google.com/file/d/49dcd91231f801159e893fb5ca674985/view?usp=sharing)
 
-[Skelibras download part 5]()
+[Skelibras download part 5](https://drive.google.com/file/d/49dcd91231f801159e393fb5c6674985/view?usp=sharing)
 
 
 # Cite us
